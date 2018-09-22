@@ -1,0 +1,14 @@
+{
+  "name": "awesome-bundle-size",
+  "version": "1.0.0",
+  "description": "An awesome list of tools and techniques to make your web bundle size smaller and your web apps load faster.",
+  "scripts": {
+    "test": "awesome-lint"
+  },
+  "private": true,
+  "author": "Krister Kari",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "awesome-lint": "^0.8.0"
+  }
+}
