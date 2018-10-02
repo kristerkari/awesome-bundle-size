@@ -14,6 +14,7 @@
 - [Tools to help with Code Splitting](#tools-to-help-with-code-splitting)
 - [Bundle size optimization guides](#bundle-size-optimization-guides)
   - [CSS](#css)
+  - [Lodash](#lodash)
   - [Tree Shaking](#tree-shaking-1)
   - [Webpack](#webpack-1)
   - [You Don't Need X](#you-dont-need-x)
