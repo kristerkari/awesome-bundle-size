@@ -68,6 +68,10 @@ _Source: https://webpack.js.org/guides/tree-shaking_
 
 - [Reducing CSS bundle size 70% by cutting the class names and using scope isolation](https://medium.freecodecamp.org/reducing-css-bundle-size-70-by-cutting-the-class-names-and-using-scope-isolation-625440de600b)
 
+### Lodash
+
+- [Smaller Lodash bundles with Webpack and Babel](https://nolanlawson.com/2018/03/20/smaller-lodash-bundles-with-webpack-and-babel/)
+
 ### Tree Shaking
 
 - [Reduce JavaScript Payloads with Tree Shaking](https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking/)
