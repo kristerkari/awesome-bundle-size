@@ -53,6 +53,7 @@ _Source: https://webpack.js.org/guides/tree-shaking_
 - [Webpack Bundle Size Analyzer](https://github.com/robertknight/webpack-bundle-size-analyzer) - A tool for finding out what contributes to the size of Webpack bundles.
 - [size-plugin](https://github.com/GoogleChromeLabs/size-plugin) - Track compressed Webpack asset sizes over time.
 - [Webpack Monitor](https://github.com/webpackmonitor/webpackmonitor) - A tool for monitoring webpack optimization metrics through the development process.
+- [Bundle optimize helper](https://webpack.jakoblind.no/optimize) - A tool that will analyze your bundle and give you actionable suggestions on what to improve to reduce your bundle size.
 
 ## Tools to analyze the cost of imports
 
