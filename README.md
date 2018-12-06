@@ -16,6 +16,7 @@
   - [CSS](#css)
   - [Lodash](#lodash)
   - [Tree Shaking](#tree-shaking-1)
+  - [Using multiple techniques](#using-multiple-techniques)
   - [Webpack](#webpack-1)
   - [You Don't Need X](#you-dont-need-x)
 - [Code Splitting](#code-splitting-1)
@@ -78,6 +79,10 @@ _Source: https://webpack.js.org/guides/tree-shaking_
 
 - [Reduce JavaScript Payloads with Tree Shaking](https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking/)
 - [Webpack - Tree Shaking](https://webpack.js.org/guides/tree-shaking/)
+
+### Using multiple techniques
+
+- [How we reduced our initial JS/CSS size by 67%](https://dev.to/goenning/how-we-reduced-our-initial-jscss-size-by-67-3ac0)
 
 ### Webpack
 
