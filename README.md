@@ -94,6 +94,7 @@ _Source: https://webpack.js.org/guides/tree-shaking_
 - [Put Your Webpack Bundle On A Diet - Part 1](https://www.contentful.com/blog/2017/10/10/put-your-webpack-on-a-diet-part-1/)
 - [Put Your Webpack Bundle On A Diet - Part 2](https://www.contentful.com/blog/2017/10/19/put-your-webpack-bundle-on-a-diet-part-2/)
 - [Put Your Webpack Bundle On A Diet - Part 3](https://www.contentful.com/blog/2017/10/27/put-your-webpack-bundle-on-a-diet-part-3/)
+- [Put Your Webpack Bundle On A Diet - Part 4](https://www.contentful.com/blog/2017/11/13/put-your-webpack-bundle-on-a-diet-part-4/)
 
 ### You Don't Need X
 
