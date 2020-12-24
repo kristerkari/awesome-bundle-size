@@ -56,6 +56,15 @@ _Source: https://webpack.js.org/guides/tree-shaking_
 - [Webpack Monitor](https://github.com/webpackmonitor/webpackmonitor) - A tool for monitoring webpack optimization metrics through the development process.
 - [Bundle optimize helper](https://webpack.jakoblind.no/optimize) - A tool that will analyze your bundle and give you actionable suggestions on what to improve to reduce your bundle size.
 
+## Tools to monitor the bundle size
+
+_See: [#bundlesize](https://github.com/topics/bundlesize) and [#bundle-size](https://github.com/topics/bundle-size) on GitHub._
+
+- [compressed-size-action](https://github.com/marketplace/actions/compressed-size-action) - GitHub action that reports changes in compressed file sizes on your PRs
+- [size-plugin](https://github.com/GoogleChromeLabs/size-plugin) - Prints the gzipped sizes of your webpack assets and the changes since the last build
+- [BundleWatch](https://bundlewatch.io/) - Keep watch of your bundle size
+- [Harold](https://github.com/funbox/harold) - CLI tool that compares frontend project bundles in size
+
 ## Tools to analyze the cost of imports
 
 - [bundlephobia](https://bundlephobia.com) - Find out the cost of adding a new frontend dependency to your project.
