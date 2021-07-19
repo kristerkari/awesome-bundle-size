@@ -10,6 +10,7 @@
 - [Tools to analyze bundle size](#tools-to-analyze-bundle-size)
   - [General](#general)
   - [Webpack](#webpack)
+- [Tools to monitor the bundle size](#tools-to-monitor-the-bundle-size)
 - [Tools to analyze the cost of imports](#tools-to-analyze-the-cost-of-imports)
 - [Tools to help with Code Splitting](#tools-to-help-with-code-splitting)
 - [Bundle size optimization guides](#bundle-size-optimization-guides)
@@ -32,7 +33,7 @@
 
 ### Code Splitting
 
-> Code-splitting your app can help you “lazy-load” just the things that are currently needed by the user, which can dramatically improve the performance of your app. While you haven’t reduced the overall amount of code in your app, you’ve avoided loading code that the user may never need, and reduced the amount of code needed during the initial load.
+> Code-splitting your app can help you “lazy-load” just the things that are currently needed by the user, which can dramatically improve the performance of your app. While you haven't reduced the overall amount of code in your app, you've avoided loading code that the user may never need, and reduced the amount of code needed during the initial load.
 
 _Source: https://reactjs.org/docs/code-splitting.html_
 
@@ -60,10 +61,9 @@ _Source: https://webpack.js.org/guides/tree-shaking_
 
 _See: [#bundlesize](https://github.com/topics/bundlesize) and [#bundle-size](https://github.com/topics/bundle-size) on GitHub._
 
-- [compressed-size-action](https://github.com/marketplace/actions/compressed-size-action) - GitHub action that reports changes in compressed file sizes on your PRs
-- [size-plugin](https://github.com/GoogleChromeLabs/size-plugin) - Prints the gzipped sizes of your webpack assets and the changes since the last build
-- [BundleWatch](https://bundlewatch.io/) - Keep watch of your bundle size
-- [Harold](https://github.com/funbox/harold) - CLI tool that compares frontend project bundles in size
+- [compressed-size-action](https://github.com/marketplace/actions/compressed-size-action) - GitHub action that reports changes in compressed file sizes on your PRs.
+- [BundleWatch](https://bundlewatch.io/) - Keep watch of your bundle size.
+- [Harold](https://github.com/funbox/harold) - CLI tool that compares frontend project bundles in size.
 
 ## Tools to analyze the cost of imports
 
@@ -98,7 +98,7 @@ _See: [#bundlesize](https://github.com/topics/bundlesize) and [#bundle-size](htt
 - [Optimising your application bundle size with webpack](https://hackernoon.com/optimising-your-application-bundle-size-with-webpack-e85b00bab579)
 - [How I Cut My React JavaScript Bundle Size In Half With Three Lines of Code](https://codeburst.io/how-i-cut-my-react-javascript-bundle-size-in-half-with-three-lines-of-code-fe7798ecbd3f)
 - [Webpack: Optimizing Your Bundle Size](https://medium.com/@arturarsalanov/webpack-optimizing-your-bundle-size-ab0c90b1bf03)
-- [Here’s how I reduced my bundle size by 90%](https://medium.com/@poshakajay/heres-how-i-reduced-my-bundle-size-by-90-2e14c8a11c11)
+- [Here's how I reduced my bundle size by 90%](https://medium.com/@poshakajay/heres-how-i-reduced-my-bundle-size-by-90-2e14c8a11c11)
 - [Optimizing Bundle size Webpack](https://medium.com/@tkssharma/optimizing-bundle-size-webpack-ab4efdfc1d15)
 - [Put Your Webpack Bundle On A Diet - Part 1](https://www.contentful.com/blog/2017/10/10/put-your-webpack-on-a-diet-part-1/)
 - [Put Your Webpack Bundle On A Diet - Part 2](https://www.contentful.com/blog/2017/10/19/put-your-webpack-bundle-on-a-diet-part-2/)
@@ -117,7 +117,7 @@ _See: [#bundlesize](https://github.com/topics/bundlesize) and [#bundle-size](htt
 
 - [Reduce JavaScript Payloads with Code Splitting](https://developers.google.com/web/fundamentals/performance/optimizing-javascript/code-splitting/)
 - [Effective Code Splitting in React: A Practical Guide](https://hackernoon.com/effective-code-splitting-in-react-a-practical-guide-2195359d5d49)
-- [Lessons Learned: Code Splitting with Webpack and React](https://hackernoon.com/effective-code-splitting-in-react-a-practical-guide-2195359d5d49)
+- [Lessons Learned: Code Splitting with Webpack and React](https://hackernoon.com/lessons-learned-code-splitting-with-webpack-and-react-f012a989113)
 - [Avoid this gotcha when code-splitting with TypeScript and Webpack](https://davidea.st/articles/webpack-typescript-code-split-wont-work)
 
 ### Documentation for bundlers and libraries
@@ -139,14 +139,10 @@ _See: [#bundlesize](https://github.com/topics/bundlesize) and [#bundle-size](htt
 
 ### Tree Shaking
 
-- [Let's Tree-Shake It... (aka Demystifying Tree-Shaking and Dead Code Elimination)](https://www.youtube.com/watch?v=LVKSpYhkgKs)
+- [Let's Tree-Shake It (aka Demystifying Tree-Shaking and Dead Code Elimination)](https://www.youtube.com/watch?v=LVKSpYhkgKs)
 
 ### Webpack
 
 - [Webpack Tips - Totally Tooling Tips](https://www.youtube.com/watch?v=zFoBYfMLUCM)
 - [How to use Webpack Bundle Analyzer](https://www.youtube.com/watch?v=ltlxjq4YEKU)
 - [Minimizing Bundle Sizes in React](https://www.youtube.com/watch?v=geHEm6Hn_2c)
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
