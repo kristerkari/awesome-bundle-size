@@ -64,9 +64,8 @@ _See: [#bundlesize](https://github.com/topics/bundlesize) and [#bundle-size](htt
 - [compressed-size-action](https://github.com/marketplace/actions/compressed-size-action) - GitHub action that reports changes in compressed file sizes on your PRs.
 - [BundleWatch](https://bundlewatch.io/) - Keep watch of your bundle size.
 - [Harold](https://github.com/funbox/harold) - CLI tool that compares frontend project bundles in size.
+- [RelativeCI](https://relative-ci.com/) - Run in-depth bundle analyses and monitor webpack bundle size, assets, modules, and packages.
 - [BundleMon](https://github.com/LironEr/bundlemon) - free open-source tool that helps you to monitor your bundle size on every commit and alerts you on changes.
-
-
 
 ## Tools to analyze the cost of imports
 
