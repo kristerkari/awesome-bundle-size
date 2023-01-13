@@ -158,10 +158,10 @@ assert-valid-glob-opts@^1.0.0:
     glob-option-error "^1.0.0"
     validate-glob-opts "^1.0.0"
 
-awesome-lint@^0.18.0:
-  version "0.18.0"
-  resolved "https://registry.yarnpkg.com/awesome-lint/-/awesome-lint-0.18.0.tgz#3b33b0a9ac58d126d37101b71856fb5b3c691d45"
-  integrity sha512-Jc5aV6fjaAnx5Rmgk26lSUAreSU4UAFrRdedTYK1x2yXB5348X5bHN7J0xUf70AUw5ujloYVkZPCw4mwuVXllg==
+awesome-lint@^0.18.1:
+  version "0.18.1"
+  resolved "https://registry.yarnpkg.com/awesome-lint/-/awesome-lint-0.18.1.tgz#92084e77a31d4af69050d111eb81d8960394c4ed"
+  integrity sha512-BH2O+hQsUvsStpHvQeSsXHFZ27CqA0JPxu0w8y8bVW5y1hx5BdcGjxAdz+OyjlIns0Iqih44oGQ6XVrkIkAP4g==
   dependencies:
     arrify "^2.0.1"
     case "^1.6.3"
@@ -1023,11 +1023,7 @@ mdast-util-to-markdown@^0.6.0:
     repeat-string "^1.0.0"
     zwitch "^1.0.0"
 
-mdast-util-to-string@^1.0.2:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/mdast-util-to-string/-/mdast-util-to-string-1.0.5.tgz#3552b05428af22ceda34f156afe62ec8e6d731ca"
-
-mdast-util-to-string@^1.1.0:
+mdast-util-to-string@^1.0.2, mdast-util-to-string@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/mdast-util-to-string/-/mdast-util-to-string-1.1.0.tgz#27055500103f51637bd07d01da01eb1967a43527"
   integrity sha512-jVU0Nr2B9X3MU4tSK7JP1CMkSvOj7X5l/GboG1tKRw52lLF1x2Ju92Ms9tNetCcbfX3hzlM73zYo2NKkWSfF/A==
@@ -2154,13 +2150,7 @@ unherit@^1.0.4:
     inherits "^2.0.1"
     xtend "^4.0.1"
 
-unified-lint-rule@^1.0.0, unified-lint-rule@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/unified-lint-rule/-/unified-lint-rule-1.0.3.tgz#e302b0c4a7ac428c0980e049a500e59528001299"
-  dependencies:
-    wrapped "^1.0.1"
-
-unified-lint-rule@^1.0.6:
+unified-lint-rule@^1.0.0, unified-lint-rule@^1.0.3, unified-lint-rule@^1.0.6:
   version "1.0.6"
   resolved "https://registry.yarnpkg.com/unified-lint-rule/-/unified-lint-rule-1.0.6.tgz#b4ab801ff93c251faa917a8d1c10241af030de84"
   integrity sha512-YPK15YBFwnsVorDFG/u0cVVQN5G2a3V8zv5/N6KN3TCG+ajKtaALcy7u14DCSrJI+gZeyYquFL9cioJXOGXSvg==
