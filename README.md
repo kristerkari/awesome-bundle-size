@@ -69,6 +69,7 @@ _See: [#bundlesize](https://github.com/topics/bundlesize) and [#bundle-size](htt
 
 ## Tools to analyze the cost of imports
 
+- [bundlejs](https://bundlejs.com) - Find out how large your treeshaken dependencies are, while also getting the resulting bundled code is.
 - [bundlephobia](https://bundlephobia.com) - Find out the cost of adding a new frontend dependency to your project.
 - [Import Cost](https://github.com/wix/import-cost) - Displays the import size of the package you are importing inside the code editor.
 
