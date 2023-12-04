@@ -9,6 +9,6 @@
   "author": "Krister Kari",
   "license": "CC0-1.0",
   "devDependencies": {
-    "awesome-lint": "^0.18.3"
+    "awesome-lint": "^1.0.1"
   }
 }
